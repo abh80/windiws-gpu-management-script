@@ -2,6 +2,8 @@
 
 Simple scripts to manage your GPU with Power Source. Turn GPU on when plugged in and turn GPU off when on battery!
 
+Tired of gpu induced battery drain? Do this
+
 > ⚠️ Tested only on Windows 10 and 11. Use at your own risk
 
 # Usage
